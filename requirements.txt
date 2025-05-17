@@ -1,0 +1,13 @@
+Flask==3.0.0
+pywebio==1.8.3
+SQLAlchemy==2.0.23
+Flask-SQLAlchemy==3.1.1
+Werkzeug==3.0.1
+reportlab==4.0.7  # Для генерации PDF
+pdfkit==1.0.0  # Альтернатива для генерации PDF из HTML
+xhtml2pdf==0.2.11  # Еще один вариант для создания PDF
+fpdf2==2.7.6  # Простая библиотека для создания PDF
+matplotlib==3.8.0  # Для визуализации данных
+pandas==2.1.3  # Для работы с данными и экспорта
+email-validator==2.1.0  # Для валидации email
+flask-mail==0.9.1  # Для отправки email
